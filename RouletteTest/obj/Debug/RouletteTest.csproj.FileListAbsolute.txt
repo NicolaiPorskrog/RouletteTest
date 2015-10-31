@@ -1,0 +1,6 @@
+C:\Users\NicolaiPC\Documents\Projects\Xamarin Presentation\DemoX\RouletteTest\RouletteTest\bin\Debug\RouletteTest.exe.config
+C:\Users\NicolaiPC\Documents\Projects\Xamarin Presentation\DemoX\RouletteTest\RouletteTest\bin\Debug\RouletteTest.exe
+C:\Users\NicolaiPC\Documents\Projects\Xamarin Presentation\DemoX\RouletteTest\RouletteTest\bin\Debug\RouletteTest.pdb
+C:\Users\NicolaiPC\Documents\Projects\Xamarin Presentation\DemoX\RouletteTest\RouletteTest\obj\Debug\RouletteTest.csprojResolveAssemblyReference.cache
+C:\Users\NicolaiPC\Documents\Projects\Xamarin Presentation\DemoX\RouletteTest\RouletteTest\obj\Debug\RouletteTest.exe
+C:\Users\NicolaiPC\Documents\Projects\Xamarin Presentation\DemoX\RouletteTest\RouletteTest\obj\Debug\RouletteTest.pdb
